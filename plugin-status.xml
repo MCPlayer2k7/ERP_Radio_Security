@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<versions>
+		<current>0.0.83</current>
+		<current>0.84</current>		
+		<permitted>0.0.82</permitted>
+	</versions>
+	<betausers>
+		<user>
+			<nickname>Michael M. 2L-27</nickname>
+			<tsuid>GhfyobshzntzcZnh6o+IEUmJEc0=</tsuid>
+		</user>
+		<user>
+			<nickname>NiK C. 2L-18</nickname>
+			<tsuid>xeC4XznolCFCX7vofE7gGg2cYKw=</tsuid>
+		</user>
+		<user>
+			<nickname>Travis N. 2L-26</nickname>
+			<tsuid>4Q2A93XgyFYpxbZxhLo5AIJKt1o=</tsuid>
+		</user>
+		<user>
+			<nickname>Jake C. 2L-25</nickname>
+			<tsuid>9PYP9ptKVEEYRgS4SKatK9zjHpw=</tsuid>
+		</user>
+		<user>
+			<nickname>Fab N. 2L-55</nickname>
+			<tsuid>Eo7PVqZqorV1vlEpm9ZqqCz+LC8=</tsuid>
+		</user>
+		<user>
+			<nickname>Sam B. C-202</nickname>
+			<tsuid>KADdkldB8LdH8mUOSqBMIi5KSmU=</tsuid>
+		</user>
+		<user>
+			<nickname>Greg R. C-611</nickname>
+			<tsuid>QOnazwilYtD3h6aULga/G2zMIRA=</tsuid>
+		</user>
+		<user>
+			<nickname>Kenan A. C-107</nickname>
+			<tsuid>fhKA7Lv6jXD5b4DzJ/+b9uwnOYw=</tsuid>
+		</user>
+		<user>
+			<nickname>Jake S. 2L-50</nickname>
+			<tsuid>OvuPCFExC0ffBGX3gZgKf/IvihU=</tsuid>
+		</user>
+		<user>
+			<nickname>Nathan B. F-201</nickname>
+			<tsuid>RfT2Quq7cU3Un2qB4AwofCgLQ6E=</tsuid>
+		</user>
+		<user>
+			<nickname>Michael S. 3C-36</nickname>
+			<tsuid>4NvhL0gL7NobMf/DZ88jxkVg7E=</tsuid>
+		</user>
+		<user>
+			<nickname>John M. 5S-38</nickname>
+			<tsuid>Mk51Q24wYYKEpaYMyRa5gQCp4WE=</tsuid>
+		</user>
+		<user>
+			<nickname>Jon C. 2L-03</nickname>
+			<tsuid>LEDL6fZBZY5c6OG2HdgmOE8awqc=</tsuid>
+		</user>
+		<user>
+			<nickname>Baker D. 1D-103</nickname>
+			<tsuid>FFdqCGjr+OVnaUwz5mZJyh1sYIE=</tsuid>
+		</user>
+		<user>
+			<nickname>Gabe C. 2L-07</nickname>
+			<tsuid>O2UbVhPWISMKKzwclfKxPedLAZw=</tsuid>
+		</user>
+		<user>
+			<nickname>Matt W. 2L-04</nickname>
+			<tsuid>R8ckDHMxkC1Ncn7x3Ijh3h0urGs=</tsuid>
+		</user>
+		<user>
+			<nickname>Kayley C. 2L-54</nickname>
+			<tsuid>o+v8QWZvrlEa55oLP2xCsmMD4Kc=</tsuid>
+		</user>
+		<user>
+			<nickname>Xavier J. 2L-28</nickname>
+			<tsuid>CrpQ7ZcZGo6akFpp6lmTtcDnO0o=</tsuid>
+		</user>
+		<user>
+			<nickname>Jake C. 2L-24</nickname>
+			<tsuid>uzV518eOr3sEDAcPXVFKJx/rGiU=</tsuid>
+		</user>
+		<user>
+			<nickname>Bryce H. C-301</nickname>
+			<tsuid>aTUbGhZ544u6VXJKPLDEaFGD+Ic=</tsuid>
+		</user>
+		<user>
+			<nickname>Amauri E. C-215</nickname>
+			<tsuid>v9MgSNv6XYih7EppXKwFtPMZGJo=</tsuid>
+		</user>
+		<user>
+			<nickname>Tristan D. 3C-13</nickname>
+			<tsuid>q3qF1Ptt/MF50u+nHLhd5hvKpCo=</tsuid>
+		</user>
+		<user>
+			<nickname>Kyle D. 2L-16</nickname>
+			<tsuid>Rv/7kaERdIKumwzUQla4pwOnyT8=</tsuid>
+		</user>
+		<user>
+			<nickname>Jamie W. 5S-33</nickname>
+			<tsuid>kgXSUE8x4pQ1EH4xEYMfoXu4VUg=</tsuid>
+		</user>
+		<user>
+			<nickname>Jackson W. F-302</nickname>
+			<tsuid>GRDzWxg1tc8o07RbJEvY/qzoRbk=</tsuid>
+		</user>
+		<user>
+			<nickname>Zaid A. Civ-43</nickname>
+			<tsuid>m1tq9VWYagtDw193oe9JGcFeuBo=</tsuid>
+		</user>
+		<user>
+			<nickname>Matt M. C-103</nickname>
+			<tsuid>TVIoXBU5BfDCagAWjhRR30wIy8I=</tsuid>
+		</user>
+		<user>
+			<nickname>Jordan P. C-222</nickname>
+			<tsuid>OH7OJa8U0GxJeY9AyYKKhMNB+IE=</tsuid>
+		</user>
+		<user>
+			<nickname>Scott M. C-206</nickname>
+			<tsuid>YMnTRixa9cLYJTi1XgIOOTNp1xQ=</tsuid>
+		</user>
+		<user>
+			<nickname>Gianni F. C-204</nickname>
+			<tsuid>wSb2fr2krovJrPARlVfXONg8roo=</tsuid>
+		</user>
+		<user>
+			<nickname>Matthew D. Civ-33</nickname>
+			<tsuid>40wxR277sM/osdLCXghC1xgy1Gw=</tsuid>
+		</user>
+		<user>
+			<nickname>Jamie H. 2L-19</nickname>
+			<tsuid>zl58CLHjcBDXVbRjXUiT5EWzEus=</tsuid>
+		</user>
+		<user>
+			<nickname>Mike H. Civ-11</nickname>
+			<tsuid>6slLIaqsUKfUE2FVQSEjqBmuzo8=</tsuid>
+		</user>
+		<user>
+			<nickname>Trae M. 3C-11</nickname>
+			<tsuid>bc+kJ9MqToLZgIpXuh2qh0ZA9Mg=</tsuid>
+		</user>
+		<user>
+			<nickname>Chris C. F-404</nickname>
+			<tsuid>HfpqZ/sN9YnR2j1t+cPIRPJMArg=</tsuid>
+		</user>
+		<user>
+			<nickname>Mark L. 5S-17</nickname>
+			<tsuid>Ssw4wRylutvho5enLhtR6L20U90=</tsuid>
+		</user>
+		<user>
+			<nickname>Thomas C. C-110</nickname>
+			<tsuid>7tIZu+bVR4LG/3MVOveqdTMC8YY=</tsuid>
+		</user>
+		<user>
+			<nickname>Christopher M. F-301</nickname>
+			<tsuid>y05qmNVIDhB0Xwnjk57TKVGASBQ=</tsuid>
+		</user>
+		<user>
+			<nickname>Caden M. Civ-30</nickname>
+			<tsuid>HWG5j6hNdSHw/+G+Ao85kg770u8=</tsuid>
+		</user>
+		<user>
+			<nickname>James K. 5S-35</nickname>
+			<tsuid>ELfEDy15n3jEra+ABgNQ0QHPxaE=</tsuid>
+		</user>
+		<user>
+			<nickname>Jonathan O. Civ-44</nickname>
+			<tsuid>rqUEFklCeDs7JhJJp+bl0UbxxWc=</tsuid>
+		</user>
+		<user>
+			<nickname>Cameron M. 3C-10</nickname>
+			<tsuid>WBZJZYCAqmYPLkPZf5RXS/KXzcA=</tsuid>
+		</user>
+		<user>
+			<nickname>James R. F-406</nickname>
+			<tsuid>DJsI6qbcUXBIoMtdnuL94o46C24=</tsuid>
+		</user>
+		<user>
+			<nickname>Trey B. 2L-52</nickname>
+			<tsuid>pNO7nIFfUv3366REM6wC4bIR9MQ=</tsuid>
+		</user>
+		<user>
+			<nickname>Alexis M. 5E-2</nickname>
+			<tsuid>1xI4gPr+uIGGbYdIjkeZjtQOYyw=</tsuid>
+		</user>
+		<user>
+			<nickname>Chris B. 2L-61</nickname>
+			<tsuid>d9JdRkAgYdsCWv0A8/yFcbn/JVo=</tsuid>
+		</user>
+		<user>
+			<nickname>Stefan M. 5S-28</nickname>
+			<tsuid>jEAJiGwm79ZIJzwLa5dU+bsZBjY=</tsuid>
+		</user>
+		<user>
+			<nickname>Michael N. 5S-22</nickname>
+			<tsuid>sWO2ElR4h4kjXa6rKmPm9ff+oag=</tsuid>
+		</user>
+		<user>
+			<nickname>Aaron T. 2L-59</nickname>
+			<tsuid>+O5KflnHxWPgaFE4Hw1aOKEc=</tsuid>
+		</user>
+		<user>
+			<nickname>Denver L. 3C-27</nickname>
+			<tsuid>YiZszkRWwlh/G4QNx86SRe6yWPI=</tsuid>
+		</user>
+		<user>
+			<nickname>Alex T. C-214</nickname>
+			<tsuid>CmvWr0006srKhmY6jbK9iSuK+/4=</tsuid>
+		</user>
+		<user>
+			<nickname>David D. F-303</nickname>
+			<tsuid>NVEUQ2bJJSbKSWdZvMdG5DCkzOE=</tsuid>
+		</user>
+		<user>
+			<nickname>Chase F. Civ-745</nickname>
+			<tsuid>pjWZGO/55zjDGZZgUNAlh7x1KLo=</tsuid>
+		</user>
+		<user>
+			<nickname>David P. 2L-45</nickname>
+			<tsuid>ApSS6621wyAuGeHZ7+pnBsBVCZ8=</tsuid>
+		</user>
+		<user>
+			<nickname>Jake H. 2L-66</nickname>
+			<tsuid>kStBWhziLWPv5muBQtxXcxUSmFk=</tsuid>
+		</user>
+		<!-- <user>
+			<nickname></nickname>
+			<tsuid></tsuid>
+		</user> -->
+	</betausers>
+</plugin>
