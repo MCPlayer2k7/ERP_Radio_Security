@@ -31,5 +31,8 @@
 			<tsuid>LMy+39B8PhG/YK5rVGM+65SZzBM=</tsuid>
 			<tsuid>DLBNa6wla6QiaCgYa8zhgK9ZJQo=</tsuid>
 		</user>
+		<servergroups>
+			<tssg>(example)</tssg>
+		</serverGroups>
 	</protectedusers>
 </plugin>
