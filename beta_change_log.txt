@@ -1,4 +1,4 @@
-[b]Moderation Panel[/b]
+<h1>Moderation Panel</h1>
 	- Staff Status information label changed to display Protection Status from the new protection system
 	- When selecting a user with protection status, the targeted command buttons will now grey out as they are not usable on these users
 	- Fixed an issue where phantom moderation panel windows would remain in the background undeleted, causing a crash on program close
