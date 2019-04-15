@@ -37,7 +37,8 @@
 			<tsuid>YXVcfXPDrPGBZiIjrbfhjNIGaVk=</tsuid>
 		</user>
 		<servergroups>
-			<tssg>(example)</tssg>
+			<tssg>172</tssg>
+			<tssg>402</tssg>
 		</serverGroups>
 	</protectedusers>
 </plugin>
