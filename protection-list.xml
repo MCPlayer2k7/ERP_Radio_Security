@@ -39,7 +39,6 @@
 		<servergroups>
 			<tssg>172</tssg> <!-- HA -->
 			<tssg>402</tssg> <!-- Community Coordinator -->
-			<tssg>152</tssg>
 		</serverGroups>
 	</protectedusers>
 </plugin>
