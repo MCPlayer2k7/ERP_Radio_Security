@@ -37,8 +37,8 @@
 			<tsuid>YXVcfXPDrPGBZiIjrbfhjNIGaVk=</tsuid>
 		</user>
 		<servergroups>
-			<tssg>172</tssg>
-			<tssg>402</tssg>
+			<tssg>172</tssg> <!-- HA -->
+			<tssg>402</tssg> <!-- Community Coordinator -->
 		</serverGroups>
 	</protectedusers>
 </plugin>
