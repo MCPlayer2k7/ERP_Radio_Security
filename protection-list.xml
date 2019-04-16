@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <plugin>
-	<protectedusers>
+	<protectedUsers>
 		<user>
 			<nickname>Michael M. 2L-27</nickname>
 			<tsuid>GhfyobshzntzcZnh6o+IEUmJEc0=</tsuid>
@@ -32,9 +32,9 @@
 			<nickname>Ghost 1A-2</nickname>
 			<tsuid>YXVcfXPDrPGBZiIjrbfhjNIGaVk=</tsuid>
 		</user>
-		<servergroups>
+		<serverGroups>
 			<tssg>172</tssg> <!-- HA -->
 			<tssg>402</tssg> <!-- Community Coordinator -->
 		</serverGroups>
-	</protectedusers>
+	</protectedUsers>
 </plugin>
