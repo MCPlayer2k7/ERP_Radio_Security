@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <plugin>
 	<versions>
+		<current>b1.01</current>
 		<current>b0.941</current>
 	</versions>
 	<betausers>
