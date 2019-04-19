@@ -2,8 +2,7 @@
 <plugin>
 	<versions>
 		<current>b1.01</current>
-		<current>b1.00</current>
-		<current>b0.941</current>
+		<permitted>b1.00</permitted>
 	</versions>
 	<betausers>
 		<user>
