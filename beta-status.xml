@@ -2,7 +2,6 @@
 <plugin>
 	<versions>
 		<current>b1.01</current>
-		<permitted>b1.00</permitted>
 	</versions>
 	<betausers>
 		<user>
@@ -270,7 +269,7 @@
 		</user>
 		<user>
 			<nickname>Robert W. F-405</nickname>
-			<tsuid>3Mjiq5Wql2bJbQxlJ3zvzCV/RME=</tsuid>
+			<tsuid></tsuid> <!--Removed to force update-->
 		</user>
 		<user>
 			<nickname>Jack M. 3C-40</nickname>
