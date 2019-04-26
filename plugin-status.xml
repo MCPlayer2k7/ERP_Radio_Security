@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <plugin>
 	<versions>
-		<current>1.02</current>
-		<current>1.01</current>
-		<permitted>1.0</permitted>
+		<current>1.03</current>
 	</versions>
 </plugin>
