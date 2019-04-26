@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <plugin>
 	<versions>
+		<current>b1.04</current>
 		<current>b1.03</current>
-		<current>b1.02</current>
 	</versions>
 	<betausers>
 		<user>
