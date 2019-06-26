@@ -5,6 +5,18 @@
 		<current>b1.04</current>
 	</versions>
 	<betausers>
+		<servergroups>
+			<tssg>264</tssg> <!-- Beta -->
+			<tssg>123</tssg> <!-- Resource Dev -->
+			<tssg>270</tssg> <!-- Dev Affiliate -->
+			<tssg>122</tssg> <!-- Asset Dev -->
+			<tssg>210</tssg> <!-- Software Dev -->
+			<tssg>182</tssg> <!-- Dev Team Lead -->
+			<tssg>121</tssg> <!-- Dev Operations Coordinator -->
+			<tssg>484</tssg> <!-- Dev Advisor -->
+			<tssg>1170</tssg> <!-- Dev Supervisor -->
+			<tssg>313</tssg> <!-- Lead Dev -->
+		</servergroups>
 		<user>
 			<nickname>Polecat324</nickname>
 			<tsuid>o2qPwOfGWDkp/oxKNvDAMJPCSuk=</tsuid>
