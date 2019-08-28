@@ -2,6 +2,7 @@
 <plugin>
 	<versions>
 		<current>b1.1.2</current>
+		<current>b1.1.1</current>
 	</versions>
 	<betausers>
 		<servergroups>
