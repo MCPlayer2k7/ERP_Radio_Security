@@ -22,7 +22,7 @@
 			"id" : 3,
 			"name" : "Tac 1",
 			"type" : "LEO",			
-			"colored_name" : "[color=purple]Statewide Dispatch[/color]",
+			"colored_name" : "[color=purple]Tac 1[/color]",
 			"talk_enforcement" : true,			
 			"encrypted" : true
 		},
@@ -30,7 +30,7 @@
 			"id" : 4,
 			"name" : "Tac 2",
 			"type" : "LEO",			
-			"colored_name" : "[color=purple]Statewide Dispatch[/color]",
+			"colored_name" : "[color=purple]Tac 2[/color]",
 			"talk_enforcement" : true,			
 			"encrypted" : true
 		}
