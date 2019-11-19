@@ -1,7 +1,7 @@
 {
 	"plugin_status" : true,
-	"dispatch_server_groups" : [],
-	"civilian_server_groups" : [],
+	"dispatch_server_groups" : [""],
+	"civilian_server_groups" : [""],
 	"civ_channels" : [1],
 	"radio_systems" : [ 12, 59, 42, 23],
 	"radio_channels" : [
@@ -47,7 +47,7 @@
 		"radio_ping_cooldown" : 10,
 		"911_cooldown" : 30,
 		"command_stun_period" : 300,
-		"tone_wait_talk_period" : 5,
+		"tone_wait_talk_period" : 5
 	},
 	"permissions" : {
 		"perm_basic" : {
