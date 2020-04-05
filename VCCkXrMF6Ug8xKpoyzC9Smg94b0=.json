@@ -63,7 +63,7 @@
 	},
 	"permissions" : {
 		"perm_basic" : {
-			"server_group_list" : ["1418"],
+			"server_group_list" : ["1418", "1415", "1442"],
 			"client_uid_list" : [""]
 		},
 		"perm_extra" : {
@@ -71,11 +71,11 @@
 			"client_uid_list" : [""]
 		},
 		"perm_sit" : {
-			"server_group_list" : ["1744"],
+			"server_group_list" : ["1816"],
 			"client_uid_list" : [""]
 		},
 		"perm_staff" : {
-			"server_group_list" : ["1419"],
+			"server_group_list" : ["1419", "1716"],
 			"client_uid_list" : [""]
 		},
 		"perm_senior" : {
